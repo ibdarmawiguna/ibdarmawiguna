@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ida Bagus Darmawiguna</h1>
-<h3 align="justify">A passionate person who tryin to be a web developer</h3>
-<img align="center" alt="web-developer" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibdarmawiguna&label=Profile%20views&color=0e75b6&style=flat" alt="ibdarmawiguna" /> </p>
+## About
 
-- 📫 How to reach me **ibdarmawiguna@gmail.com**
+I am a Medical Doctor turned Healthcare Business Leader and Growth Strategist, operating at the rare intersection of clinical credibility and data-driven modern marketing. Over the past 4+ years, I have specialized in transforming complex medical expertise into scalable, high-conversion healthcare business models.
 
-- ⚡ Fun fact **I'm a newbiee**
+My career spans across managing full facility P&L, leading cross-functional medical operations, scaling high-yield doctor referral networks, and architecting patient acquisition funnels for leading healthcare brands and private hospital groups in Indonesia.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tuaajii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuaajii" height="30" width="40" /></a>
-</p>
+As the Digital Marketing Supervisor at Kasih Ibu Hospital Group, I bridge the gap between clinical excellence and commercial growth—leading high-performing teams to deploy campaigns across Meta, TikTok, and LinkedIn, while pioneering innovative strategies like VR-based medical content.
+
+Beyond institutional leadership, I run Connectologist.id, where I consult healthcare executives, medical practitioners, and independent practices on personal branding, ethical patient acquisition, and turning clinical trust into digital authority.
+
+### 🛠️ Core Expertise:
+*   **Business & Operations:** P&L Management, Healthcare Operations, B2B Lobbying, Strategic Stakeholder Management, Cross-functional Leadership.
+*   **Growth & Marketing:** Data-Driven Digital Marketing, Medical Sales Strategy, Patient Psychology & Journey Mapping, Doctor Referral Networks, Technical SEO.
+*   **Tech Stack:** Meta Ads Manager, Google Analytics, CRM Platforms, AI-Powered Marketing Automation, Prompt Engineering.
+
+Let’s connect to discuss healthcare innovation, digital growth strategies, or collaborative B2B opportunities. 
+📬 Contact: ibdarmawiguna@gmail.com
