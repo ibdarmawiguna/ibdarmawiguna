@@ -12,8 +12,8 @@ I operate at the unique, high-yield intersection of **clinical medicine** and **
 
 *   💼 **Current Roles:** Digital Marketing Supervisor at **Kasih Ibu Hospital Bali** & Independent Consultant at **Connectologist.id**.
 *   🚀 **Core Focus:** Architecting patient acquisition funnels, optimizing B2B doctor referral networks, and leveraging AI-powered tools for performance marketing.
-*   🌐 **Portfolio:** <a href="https://ibdarmawiguna.github.io/personal-landing-page/" target="_blank">View my personal landing page</a>
-*   📫 **How to reach me:** <a href="mailto:ibdarmawiguna@gmail.com" target="_blank">ibdarmawiguna@gmail.com</a>
+*   🌐 **Portfolio:** *   🌐 **Portfolio:** [View my personal landing page](https://ibdarmawiguna.github.io/personal-landing-page/) *(opens in same tab — Ctrl/Cmd+Click for new tab)*
+*   📫 **How to reach me:** [Send me an email](mailto:ibdarmawiguna@gmail.com)
 
 ---
 ### 🛠️ Growth Tech Stack & Competencies
